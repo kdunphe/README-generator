@@ -12,7 +12,7 @@
 
 
 <h2>Video Demo</h2>
-View the walkthrough video here.
+View the walkthrough video <a href="https://drive.google.com/file/d/1dEFep40Eoh5K7Fj-NZgua8MPpWdfaOB9/view">here</a>.
 
 
 <h2>Screenshots</h2>

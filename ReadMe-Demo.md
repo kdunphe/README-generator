@@ -14,13 +14,13 @@
   No installation instructions, just a demo.
 
   ## Usage
-  No usage instructions either.
+  No usage instructions, just a demo.
 
   ## Contributing
   Just me!
 
   ## Tests
-  No tests, just a demo.
+  No tests.
 
   ## Questions
   For questions about this repository:

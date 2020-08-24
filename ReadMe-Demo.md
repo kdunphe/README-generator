@@ -14,7 +14,7 @@
   No installation instructions, just a demo.
 
   ## Usage
-  No usage instructions, just a demo.
+  No usage instructions either.
 
   ## Contributing
   Just me!

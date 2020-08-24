@@ -1,38 +1,33 @@
-# README Demo
+# README-Demo
   ## Description
-  This is just a demonstration.
+  This is a quick demonstration of this project.
 
   ## Table of Contents
-  * [Installation] (#Installation)
-  * [Usage] (#Usage)
-  * [Contributing] (#Contributing)
-  * [Tests] (#Tests)
-  * [Questions] (#Questions)
-  * [License] (#License)
-
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
+  * [License](#license)
 
   ## Installation
-  This is just a demonstration, no installation instructions.
+  No installation instructions, just a demo.
 
   ## Usage
-  No usage instructions, this is just a demonstration.
-
+  No usage instructions, just a demo.
 
   ## Contributing
   Just me!
 
-
   ## Tests
-  No tests.
-
+  No tests, just a demo.
 
   ## Questions
-  For questions about this repository: 
+  For questions about this repository:
 
-  GitHub Username: kdunphe
+  GitHub Username: [kdunphe]((https://github.com/kdunphe))
 
   Email Address: kayla.dunphe@gmail.com
-
 
 
   ## License

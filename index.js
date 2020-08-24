@@ -64,13 +64,12 @@ function formatText(answers) {
   ${answers.Description}
 
   ## Table of Contents
-  * [Installation] (#Installation)
-  * [Usage] (#Usage)
-  * [Contributing] (#Contributing)
-  * [Tests] (#Tests)
-  * [Questions] (#Questions)
-  * [License] (#License)
-
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
+  * [License](#license)
 
   ## Installation
   ${answers.Installation}
@@ -78,20 +77,16 @@ function formatText(answers) {
   ## Usage
   ${answers.Usage}
 
-
   ## Contributing
   ${answers.Contributing}
-
 
   ## Tests
   ${answers.Tests}
 
-
   ## Questions
-  For questions about this repository: \n
-  GitHub Username: ${answers.Username}\n
+  For questions about this repository:\n
+  GitHub Username: [${answers.Username}]((https://github.com/${answers.Username}))\n
   Email Address: ${answers.Email}\n
-
 
   ## License
   The repository is using the ${answers.License} license.

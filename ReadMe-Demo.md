@@ -1,6 +1,6 @@
 # README-Demo
   ## Description
-  This is a quick demonstration of this project.
+  This is just a quick demonstration of the project.
 
   ## Table of Contents
   * [Installation](#installation)
@@ -25,7 +25,7 @@
   ## Questions
   For questions about this repository:
 
-  GitHub Username: [kdunphe]((https://github.com/kdunphe))
+  GitHub Username: [kdunphe](https://github.com/kdunphe)
 
   Email Address: kayla.dunphe@gmail.com
 

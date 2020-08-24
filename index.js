@@ -34,9 +34,16 @@ const questions = [{
   message: "Add any Tests for your Project:",
 },
 {
-  type: "input",
+  type: "list",
   name: "License",
   message: "Project License?",
+  choices: [
+    "MIT",
+    "Apache 2.0",
+    "The Unlicense",
+    "Mozilla Public 2.0",
+    "Boost Software 1.0",
+  ]
 },
 {
   type: "input",
@@ -85,7 +92,7 @@ function formatText(answers) {
 
   ## Questions
   For questions about this repository:\n
-  GitHub Username: [${answers.Username}]((https://github.com/${answers.Username}))\n
+  GitHub Username: [${answers.Username}](https://github.com/${answers.Username})\n
   Email Address: ${answers.Email}\n
 
   ## License

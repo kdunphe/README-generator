@@ -1,6 +1,7 @@
 const fs = require('fs');
 const inquirer = require('inquirer');
 
+
 // array of questions for user
 const questions = [{
   type: "input",
@@ -57,14 +58,8 @@ const questions = [{
 }
 ];
 
-// function to write README file
-// function formatText (answers) {
-//     let outputString = "";
-//     outputString += `# ${answers.Title} \n`;
-//     outputString += `# ${answers.Description} \n`;
-//     return outputString;
-// }
 
+// function to write README file
 function formatText(answers) {
   return `# ${answers.Title}
   ## Description
@@ -102,8 +97,6 @@ function formatText(answers) {
 }
 
 
-
-
 // function to initialize program
 // Source: https://www.npmjs.com/package/inquirer
 function init() {
@@ -124,6 +117,7 @@ function init() {
       console.log(err)
     });
 }
+
 
 // function call to initialize program
 init();
